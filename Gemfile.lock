@@ -1,7 +1,7 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    thor (1.0.1)
+    thor (1.4.0)
 
 PLATFORMS
   ruby
